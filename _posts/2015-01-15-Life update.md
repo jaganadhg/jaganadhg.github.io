@@ -10,6 +10,4 @@ We are blessed with a baby boy and named him Vaidyanadh. Spending leisure with h
 
 Will be updating more technical stuff here soon .
 
-Migrated from my old blog 
-
-https://web.archive.org/web/20160323193721/http://jaganadhg.freeflux.net/blog/archive/2015/01/15/life-update.html
+Migrated from my [old blog jaganadhg.freeflux.net] (https://web.archive.org/web/20160323193721/http://jaganadhg.freeflux.net/blog/archive/2015/01/15/life-update.html)
