@@ -6,7 +6,7 @@ use_math: true
 ---
 I used to play a lot with text databases. Today I was just thinking of migrating some of my data collection to CouchDB. I used the following script to convert one of my DB table (Almost all fields are TEXT) to a CouchDB collection.
 
-```
+```python
 #!/usr/bin/env python
 import couchdb
 import MySQLdb as mdb
@@ -23,7 +23,8 @@ for result in results:
  
 The DictCursor in Python MySQLdb API was a great help in creating fields and values in CouchDB collection. As my table contained text data only the operation was smooth and I was able to migrate about 1 GB data to CouchDB. But !!! life is not easy if your text data have encoding issues or junk values that can't be converted to Unicode you are in trouble. Don't worry here comes the solution; replace the last two lines in the code with below given code.
 
-```for result in results:
+```python
+for result in results:
     k = result.keys()
     v = result.values()
     v = [repr(i) for i in v]
@@ -33,7 +34,7 @@ The DictCursor in Python MySQLdb API was a great help in creating fields and val
  
 Hmm so far so good. But I tried the same code with a different table where the structure is like:
 
-```
+```sql
 +-------+--------------+------+-----+---------+----------------+
 | Field | Type         | Null | Key | Default | Extra          |
 +-------+--------------+------+-----+---------+----------------+
