@@ -6,7 +6,7 @@
 name: Jaggu's World 
 
 # Short bio or description (displayed in the header)
-description: Data Scientist
+description: Artificial Intelligence and Analytics Leader | Sr. Manager Projects
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://media.licdn.com/dms/image/C4E03AQEWH2RFcU0KaA/profile-displayphoto-shrink_200_200/0?e=1560988800&v=beta&t=BL2VFGRofApOyU3jUxcnhdsNpPR3zjGPQMyPsINZlRA
@@ -15,6 +15,15 @@ avatar: https://media.licdn.com/dms/image/C4E03AQEWH2RFcU0KaA/profile-displaypho
 #
 # Flags below are optional
 #
+
+
+author:
+  name: Jagan
+  description: Artificial Intelligence and Analytics Leader | Sr. Manager Projects
+  #gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  contact:
+    linkedin:  https://www.linkedin.com/in/jaganadhg
+    github:    https://github.com/jaganadhg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
