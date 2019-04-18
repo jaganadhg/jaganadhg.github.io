@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HBase Administration Cookbook by Yifeng Jiang : Review
+title: HBase Administration Cookbook by Yifeng Jiang - Review
 tags: [Hbase Cookbook, Big-Data, Hadoop, Packt]
 use_math: true
 ---
