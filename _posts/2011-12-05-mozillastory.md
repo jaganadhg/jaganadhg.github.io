@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Mozilla Story`:` the story of how Mozilla helped shape the web we know today
-tags: [life]
+tags: [Mozilla, Firefox]
 use_math: true
 ---
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kmk43_2dtn0/0.jpg)](https://www.youtube.com/watch?v=kmk43_2dtn0)
