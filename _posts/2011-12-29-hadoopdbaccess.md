@@ -133,7 +133,7 @@ After this we have to configure the job with database connection details and dri
         JobClient.runJob(twokenJobConf);
 ```
 
-Before compiling and running the program we have to some additional setup in the Hadoop ecosystem. The MySQL connector library has to be put in $HADOOP_HOME/lib folder. To download the connector .jar file go to MySQL Connector/J download folder. I used the mysql-connector-java-3.1.14-bin.jar file in my program. After putting the jar in $HADOOP_HOME/lib restart the hadoop ecosystem. Viola !! now you are ready to run the program. Convert the code to .jar file and run it. 
+Before compiling and running the program we have to some additional setup in the Hadoop ecosystem. The MySQL connector library has to be put in ``$HADOOP_HOME/lib`` folder. To download the connector .jar file go to ```MySQL Connector/J``` download folder. I used the ```mysql-connector-java-3.1.14-bin.jar``` file in my program. After putting the jar in ```$HADOOP_HOME/lib``` restart the hadoop ecosystem. Viola !! now you are ready to run the program. Convert the code to .jar file and run it. 
 
 The complete project is available in my [bitbucket repository](https://bitbucket.org/jaganadhg/hadooexamples/src/840db7af9abc/HadoopMySQLRead/).
 
