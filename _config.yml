@@ -81,6 +81,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-paginate
+  - jekyll-seo-tag
+
+github:
+  repo: https://github.com/jaganadhg/jaganadhg.github.io/
 
 nav:
   Home:           
@@ -93,6 +97,8 @@ nav:
     - '/about/'
   Github Project: 
     - 'http://jaganadhg.github.io/'
+
+
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
