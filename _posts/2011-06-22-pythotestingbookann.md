@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Book from Packt : Python Testing Cookbook by Greg L. Turnquist
+title: New Book from Packt - Python Testing Cookbook by Greg L. Turnquist
 tags: [Python, Python3, Testing, Announcement, Review, Packt]
 use_math: true
 comment: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mahout in Action : Review
+title: Mahout in Action - Review
 tags: [Apache Mahout, Machine Learning, AI, Manning, Review, Book review]
 use_math: true
 comment: true

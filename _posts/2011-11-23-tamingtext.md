@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Taming Text : Review
+title: Taming Text - Review
 tags: [Natural Language Processing, Text Mining, AI, Machine Learning, Computational Linguistics, Search Engine, Apache Mahout, Book Review]
 use_math: true
 comment: true

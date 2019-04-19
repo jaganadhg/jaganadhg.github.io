@@ -1,5 +1,6 @@
+---
 layout: post
-title: WordNet sense similarity with NLTK : some basics 
+title: WordNet sense similarity with NLTK - some basics 
 tags: [Python, Natural Language Processing, Computational Linguistics, NLTK,AI]
 use_math: true
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Review : Python 2.6 Text Processing Beginner's Guide by Jeff McNei
+title: Book Review - Python 2.6 Text Processing Beginner's Guide by Jeff McNei
 tags: [Book Review, Text Processing, Natural Language Processing, Python, Packt,PyLucene]
 use_math: true
 comment: true
