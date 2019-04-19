@@ -20,6 +20,14 @@ layout: default
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
-
+  <div class="disclain">
+    The Opinions Expressed In This Post Are My Own And Not Necessarily Those Of My Employer.
+  </div>
+<span>[
+  {% for tag in page.tags %}
+    {% capture tag_name %}{{ tag }}{% endcapture %}
+    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+  {% endfor %}
+]</span>
   {% include disqus.html %}
 </article>
