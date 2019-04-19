@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: New book by Packt : MySQL for Python
 tags: [Python, MySQL, Announcement, Packt, Review]
 use_math: true

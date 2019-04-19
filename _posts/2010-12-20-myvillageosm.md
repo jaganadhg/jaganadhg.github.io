@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: My Village comes to Openstreetmap
 tags: [Free and Open Source, OpenStreetMap, Kamukumchery, KOllam]
 use_math: true

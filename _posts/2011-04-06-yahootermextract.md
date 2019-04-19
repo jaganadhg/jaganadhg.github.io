@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: Using Yahoo! Term Extractor web service with Python
 tags: [Python, Natural Langauge Processing, Computational Linguistics, AI, FOSS]
 use_math: true
