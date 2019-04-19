@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Configuring GitHub with PyCharm Community Edition
+author: jagan
+tags: [Python, PyCharm]
+comments: true
 ---
 
-1)  Download and Install Pycharm Community Edition from https://www.jetbrains.com/pycharm/download/ 
+1)  Download and Install Pycharm Community Edition from [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/) 
 
 2) Open Pycharm and go to "Preferences"
 
