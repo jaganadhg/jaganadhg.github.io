@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Who said that Sanskrit is a "dead language"?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuring GitHub with PyCharm Community Edition
+title: NLTK and Indian Language corpus processing - Part-II
 author: jagan
 tags: [Python, Natural Language Processing, Text Processing, NLTK]
 comments: true

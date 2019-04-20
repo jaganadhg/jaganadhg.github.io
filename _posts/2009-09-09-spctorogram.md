@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Plotting wave form and spectrogram the pure Python way

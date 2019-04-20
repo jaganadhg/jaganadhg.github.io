@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Meaning vs Interpretation the "cattle class" and other MWE.
