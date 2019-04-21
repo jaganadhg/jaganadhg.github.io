@@ -103,6 +103,9 @@ nav:
 tag_page: '/blog/tags/'
 category_page: '/blog/categories/'
 
+paginate: 1
+paginate_path: "/page/:num/"
+
 mathjax: true
 # Exclude these files from your production _site
 exclude:
