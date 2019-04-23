@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Machine Generated Books - Chnaging Face of Scientific Publications
+title: Machine Generated Books - Changing Face of Scientific Publications
 author: jagan
 tags: [Publications, Artificial Intelligence, Computational Linguistics, Machine Learning, Springer]
 comments: true
